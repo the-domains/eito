@@ -1,7 +1,7 @@
 name: EiTo
 favicon: null
-layout_spectrum: 0.3924508369527757
-typography_spectrum: 0.28290549316443503
+layout_spectrum: 0.00091
+typography_spectrum: 1
 title: 'Berater | Unternehmer | Träumer'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5036597549915314
-  lightness: 0.21777462330646813
-  saturation: 0.5144569310359657
-  rhythmicContrast: 0.6069047430064529
+    - '#3f4544'
+    - '#3f4644'
+    - '#404444'
+    - '#404545'
+    - '#424242'
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
